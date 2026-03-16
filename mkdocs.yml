@@ -1,5 +1,5 @@
 site_name: DIY PIU
-site_url: https://lainpiu.io
+site_url: https://lain28.github.io/lainpiu/
 
 theme:
   name: material
@@ -11,7 +11,7 @@ theme:
         name: Dark mode
       primary: green
       accent: deep purple
-      
+
     # Light mode
     - scheme: default
       toggle:
