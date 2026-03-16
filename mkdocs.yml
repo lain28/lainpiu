@@ -1,5 +1,6 @@
 site_name: DIY PIU
 site_url: https://lainpiu.io
+
 theme:
   name: material
   palette:
@@ -10,7 +11,7 @@ theme:
         name: Dark mode
       primary: green
       accent: deep purple
-
+      
     # Light mode
     - scheme: default
       toggle:
@@ -23,7 +24,7 @@ theme:
     text: Georgia
     code: Red Hat Mono
 
-  markdown_extensions:
+markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
